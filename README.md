@@ -1,3 +1,3 @@
 # hello-world
 demo repository
-Just to recap hithub working
+Just to recap github working
